@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 import pandas as pd
 import csv
+import json
 import numpy as np
 from flask import Flask, jsonify
 
@@ -54,6 +55,6 @@ for row in aux:
 # Retornando um json com o dicionario gerado!
 @app.route('/')
 def homepage():
-  return jsonify(dict)
+  return json.dumps(dict)
 
 app.run(host='0.0.0.0')
