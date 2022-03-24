@@ -4,6 +4,7 @@ import csv
 import json
 import numpy as np
 from flask import Flask, jsonify
+import os
 
 # Iniciando Variaveis e o app do Flask
 app = Flask(__name__)
@@ -57,4 +58,5 @@ for row in aux:
 def homepage():
   return json.dumps(dict)
 
-app.run(host='0.0.0.0')
+port = int(os.environ.get("PORT", 5000))
+app.run(host='0.0.0.0', port=port)
