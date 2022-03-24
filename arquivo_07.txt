@@ -1,0 +1,16 @@
+NOME                                 QUANTIDADE PROTEINAS CARBOIDRATOS GORDURA
+------------------------------------ ---------- --------- ------------ -------
+iogurte desnatado                     100       5          22          52
+Leite em pó desnatado                 100       5          22           53
+Leite de soja                         100       5          22           51
+Leite                                 100       5          22          51
+iogurte integral                      100       5          22           51
+Leite em pó integral                  100       5          22           51
+Coalhada                              100       5          22            51
+Queijo minas frescal                  100       5          22           51
+Ricota                                100       5          22          52
+Queijo minas curado                   100       5          22           50
+Requeijão                             100       5          22          34
+Requeijão light                       100       5          22            34
+Queijo cottage                        100       5          22           32
+Cream cheese                          100       5          22            51

@@ -1,0 +1,13 @@
+NOME                                 QUANTIDADE PROTEINAS CARBOIDRATOS GORDURA
+------------------------------------ ---------- --------- ------------ -------
+Tabule                                 100       5          22         5
+Pão de forma integral                  100       5          22         5
+Pão de hambúrguer integral 1 unidade      100       5          22         5
+granola                               100       5          22          5
+linhaça                               100       5          22          5
+chia                                 100         5          22         5
+Bolo simples                          100       5          22          5
+Barra de cereais                      100       5          22          5
+Tapioca                              100          5          22         5
+Pipoca salgada                        100       5          22           5
+Leite                                 100       5          22           51

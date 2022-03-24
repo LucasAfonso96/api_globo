@@ -1,0 +1,18 @@
+NOME                                 QUANTIDADE PROTEINAS CARBOIDRATOS GORDURA
+------------------------------------ ---------- --------- ------------ -------
+Queijo prato                          100       5          22            12
+Queijo provolone                      100       5          22              30
+Queijo parmesão                       100       5          22           51
+Queijo tipo polenguinho               100       5          22           51
+Margarina                             100       5          22           51
+manteiga                              100       5          22            51
+Requeijão                             100       5          22            51
+Arroz branco                                100     5          30           2
+Purê de batata                          100       5          22         5
+Farofa simples                          100       5          22         5
+Batata doce                            100       5          22         5
+Milho cozido                            100       5          22         5
+Milho em conserva                        100       5          22         5
+Quinua                                  100       5          22         5
+Amaranto                                 100       5          22         5
+Trigo                                  100       5          22         5

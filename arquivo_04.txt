@@ -1,0 +1,12 @@
+NOME                                 QUANTIDADE PROTEINAS CARBOIDRATOS GORDURA
+------------------------------------ ---------- --------- ------------ -------
+Pão italiano                           100       5          22         5
+Bisnaguinha                           100       5          22           5
+Torrada integral                        100       5          22         5
+Bolacha água e sal                      100       5          22         5
+Biscoito doce sem recheio              100       5          22         5
+Nesfit                                100       5          22           5
+Bolacha de arroz integral              100       5          22         5
+Aveia                                  100       5          22         5
+Sardinha fresca                      100          53           2         5
+Arroz integral                         100         5         22           5

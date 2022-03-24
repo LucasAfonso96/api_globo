@@ -1,0 +1,20 @@
+NOME                                 QUANTIDADE PROTEINAS CARBOIDRATOS GORDURA
+------------------------------------ ---------- --------- ------------ -------
+Cream cheese light                    100       5          22           32
+Pasta de soja                         100       5          22           50
+Requeijão light 1 colher de sopa      100       5          22           51
+Creme de ricota                       100       5          22            51
+chester                               100       5          22           51
+peru                                  100       11           2         5
+Pasta de soja                         100        2          2          51
+Pasta de amendoim integral            100        3          2          53
+Óleo                                  100        4          2          53
+Azeite                                100        4         2           54
+Oleo de coco                          100        3          2          54
+Bife grelhado                         100       52          22         5
+filé de frango grelhado               100       51           2         5
+Frango assado                         100       51           2         5
+Almôndegas                            100       52           2         5
+Bife rolé                             100       53          22         5
+Picadinho                             100       53          2          5
+Carne ensopada                        100       51          2          5

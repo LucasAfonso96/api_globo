@@ -1,0 +1,8 @@
+NOME                                 QUANTIDADE PROTEINAS CARBOIDRATOS GORDURA
+------------------------------------ ---------- --------- ------------ -------
+Panqueca de carne moída               100       52          2          5
+Ovo                                    100       52          2         5
+Kibe de forno                        100        52           2         5
+Hambúrguer caseiro                    100       52           2         5
+salmão                                100       52          2           5
+Whey Protein                         100       51           2           5

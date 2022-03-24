@@ -1,0 +1,6 @@
+NOME                                 QUANTIDADE PROTEINAS CARBOIDRATOS GORDURA
+------------------------------------ ---------- --------- ------------ -------
+Língua bovina                        100         52           2         5
+Dobradinha                            100       52           2         5
+Coração                               100       52           2         5
+Pernil                                 100       52           2         5

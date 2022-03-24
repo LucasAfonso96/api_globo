@@ -1,0 +1,11 @@
+NOME                                 QUANTIDADE PROTEINAS CARBOIDRATOS GORDURA
+------------------------------------ ---------- --------- ------------ -------
+Macarrão cozido                           100        5         22          5
+Nhoque sem molho                          100       5          22         5
+Batata inglesa cozida					  100			 5     22         5
+Cará Inhame ou mandioquinha              100       5          22         5
+Aipim                                    100       50          22         5
+Atum enlatado                         100       51           2         5
+Sardinha enlatada                    100         51           2         5
+Bacalhau                              100       51           2         5
+Polvo                                  100       52           2         5

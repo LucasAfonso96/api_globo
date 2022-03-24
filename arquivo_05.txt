@@ -1,0 +1,14 @@
+NOME                                 QUANTIDADE PROTEINAS CARBOIDRATOS GORDURA
+------------------------------------ ---------- --------- ------------ -------
+Carne moida                           100       51          2          5
+Carne assada                          100       53           2         5
+Bife de fígado                        100       51          2          5
+Proteína de soja                      100       52          2          5
+Tofu                                  100       51           2         5
+Coxa ou sobrecoxa de frango          100       53          2          5
+Carne de porco magra grelhada         100       51          2          5
+Carne seca                            100       52          2          5
+Camarão cozido                       100         51          22         5
+Peixe assado                          100       51          2          5
+Pão Arabe integral                      100       5          22         5
+Pão francês (integral)                  100       5          22         5
